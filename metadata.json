@@ -1,0 +1,5 @@
+{
+  "name": "LifeOS Dashboard",
+  "description": "A personal dashboard for tracking schedule, tasks, finances, and capturing thoughts.",
+  "requestFramePermissions": []
+}
